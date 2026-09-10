@@ -19,15 +19,36 @@ function persist(next: WordbookState) {
   emit();
 }
 
+function isSavedWord(value: unknown): value is SavedWord {
+  if (!value || typeof value !== "object") return false;
+  const word = value as Partial<SavedWord>;
+  return (
+    typeof word.lemma === "string" &&
+    typeof word.display === "string" &&
+    typeof word.phonetic === "string" &&
+    typeof word.translation === "string" &&
+    Array.isArray(word.partOfSpeech) &&
+    Array.isArray(word.occurrences) &&
+    word.occurrences.every((occurrence) => {
+      return (
+        occurrence &&
+        typeof occurrence === "object" &&
+        typeof occurrence.articleSlug === "string" &&
+        typeof occurrence.articleTitle === "string" &&
+        typeof occurrence.sentence === "string" &&
+        typeof occurrence.savedAt === "string"
+      );
+    })
+  );
+}
+
 function cleanStoredState(value: unknown): WordbookState {
   if (!value || typeof value !== "object") return EMPTY_STATE;
   const candidate = value as Partial<WordbookState>;
   if (candidate.version !== 1 || !Array.isArray(candidate.words)) return EMPTY_STATE;
   return {
     version: 1,
-    words: candidate.words.filter((word): word is SavedWord => {
-      return Boolean(word && typeof word === "object" && typeof word.lemma === "string");
-    }),
+    words: candidate.words.filter(isSavedWord),
   };
 }
 

@@ -38,8 +38,9 @@ describe("wordbook store", () => {
   });
 
   it("accepts a valid backup shape and rejects unrelated JSON", () => {
-    const valid = parseWordbookBackup({ version: 1, words: [{ lemma: "unique" }] });
+    const valid = parseWordbookBackup({ version: 1, words: [{ ...dictionary, display: dictionary.word, isSyllabus: true, occurrences: [], updatedAt: new Date().toISOString() }] });
     expect(valid.words).toHaveLength(1);
     expect(parseWordbookBackup({ hello: "world" }).words).toHaveLength(0);
+    expect(parseWordbookBackup({ version: 1, words: [{ lemma: "unique" }] }).words).toHaveLength(0);
   });
 });
