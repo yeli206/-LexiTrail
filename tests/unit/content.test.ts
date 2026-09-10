@@ -21,6 +21,13 @@ describe("article content", () => {
     }
   });
 
+  it("does not contain legacy template titles", () => {
+    for (const file of files) {
+      const { data } = matter(fs.readFileSync(path.join(process.cwd(), "content", "articles", file), "utf8"));
+      expect(String(data.title), file).not.toMatch(/word trail/i);
+    }
+  });
+
   it("has 35-45 focus words per article", () => {
     for (const [slug, words] of Object.entries(focusSets)) {
       expect(words.length, slug).toBeGreaterThanOrEqual(35);
