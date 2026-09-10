@@ -4,11 +4,12 @@ import matter from "gray-matter";
 import vocabularyData from "../src/data/vocabulary.json";
 
 const vocabulary = vocabularyData.entries;
+const byLemma = new Map<string, (typeof vocabulary)[number]>();
 const byAlias = new Map<string, (typeof vocabulary)[number]>();
 for (const entry of vocabulary) {
-  byAlias.set(entry.lemma.toLowerCase(), entry);
+  byLemma.set(entry.lemma.toLowerCase(), entry);
   byAlias.set(entry.display.toLowerCase(), entry);
-  for (const alias of entry.aliases) byAlias.set(alias.toLowerCase(), entry);
+  for (const alias of entry.aliases) if (!byAlias.has(alias.toLowerCase())) byAlias.set(alias.toLowerCase(), entry);
 }
 
 const contentDir = path.join(process.cwd(), "content", "articles");
@@ -28,7 +29,8 @@ for (const file of files) {
   const found = new Map<string, string>();
 
   for (const token of words) {
-    const entry = byAlias.get(token.toLowerCase().replace("’", "'").replace(/'s$/, ""));
+    const normalized = token.toLowerCase().replace("’", "'").replace(/'s$/, "");
+    const entry = byLemma.get(normalized) ?? byAlias.get(normalized);
     if (entry) found.set(entry.lemma, entry.display);
   }
 
@@ -38,7 +40,7 @@ for (const file of files) {
   }
   if (expectedFocus.length < 35 || expectedFocus.length > 45) failures.push(`${file}: focus set has ${expectedFocus.length} entries`);
   for (const focus of expectedFocus) {
-    const entry = byAlias.get(focus);
+    const entry = byLemma.get(focus) ?? byAlias.get(focus);
     if (!entry) failures.push(`${file}: unknown focus word ${focus}`);
     if (entry && !found.has(entry.lemma)) failures.push(`${file}: missing focus word ${focus}`);
   }
@@ -52,7 +54,7 @@ for (const file of files) {
   console.log(`${data.slug ?? file}: ${words.length} words, ${found.size} matched, ${expectedFocus.length} focus`);
 }
 
-if (files.length < 10) failures.push(`Expected at least 10 articles, found ${files.length}`);
+if (files.length < 45) failures.push(`Expected at least 45 articles, found ${files.length}`);
 console.log(`\nCoverage: ${allCovered.size}/${vocabulary.length} (${((allCovered.size / vocabulary.length) * 100).toFixed(1)}%)`);
 
 if (failures.length) {

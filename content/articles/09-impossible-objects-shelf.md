@@ -1,4 +1,5 @@
 ---
+number: 9
 slug: "impossible-objects-shelf"
 title: "A Museum for Objects That Should Not Work"
 summary: "Some inventions fail because they are impossible. Others fail because they are strange, early, or simply too far ahead of their time."

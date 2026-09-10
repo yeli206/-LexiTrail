@@ -1,4 +1,5 @@
 ---
+number: 5
 slug: "one-hundred-yuan-week"
 title: "The Secret Life of One Hundred Yuan"
 summary: "Follow a single banknote through a week of small choices and it becomes clear that personal finance is also a social story."

@@ -55,3 +55,13 @@ test("coverage map filters and links a covered word back to its article", async 
   await row.getByRole("link", { name: "首次出现" }).click();
   await expect(page).toHaveURL(/impossible-objects-shelf/);
 });
+
+test("article catalogue groups entries and stores reading checks", async ({ page }) => {
+  await page.goto("/articles");
+  await expect(page.locator(".catalogue-section")).toHaveCount(5);
+  const firstToggle = page.locator(".read-toggle").first();
+  await firstToggle.click();
+  await expect(page.locator(".catalogue-summary")).toContainText("1 / 45");
+  await page.reload();
+  await expect(page.locator(".read-toggle input").first()).toBeChecked();
+});

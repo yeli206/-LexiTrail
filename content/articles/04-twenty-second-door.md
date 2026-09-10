@@ -1,4 +1,5 @@
 ---
+number: 4
 slug: "twenty-second-door"
 title: "The Twenty-Second Door to a Better Habit"
 summary: "A small experiment in an old college library shows why the easiest path is often more powerful than a dramatic promise."

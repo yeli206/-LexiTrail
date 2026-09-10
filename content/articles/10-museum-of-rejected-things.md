@@ -1,4 +1,5 @@
 ---
+number: 10
 slug: "museum-of-rejected-things"
 title: "The Museum That Gives Broken Things a Second Life"
 summary: "A repair workshop turns cracked, rusty, and outdated objects into a lesson about materials, value, and the stories we discard."

@@ -1,4 +1,5 @@
 ---
+number: 6
 slug: "courtyard-wilderness"
 title: "The Little Wilderness Behind the Hospital"
 summary: "A neglected courtyard becomes a lesson in urban ecology when a gardener stops treating every weed as an enemy."

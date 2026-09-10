@@ -16,6 +16,7 @@ const sourceSchema = z.object({
 });
 
 const frontmatterSchema = z.object({
+  number: z.number().int().positive(),
   slug: z.string().regex(/^[a-z0-9-]+$/),
   title: z.string().min(8),
   summary: z.string().min(20),

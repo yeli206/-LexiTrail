@@ -12,7 +12,7 @@ describe("article content", () => {
   const files = fs.readdirSync(path.join(process.cwd(), "content", "articles"));
 
   it("ships exactly ten articles with valid lengths", () => {
-    expect(files.length).toBeGreaterThanOrEqual(10);
+    expect(files.length).toBeGreaterThanOrEqual(45);
     for (const file of files) {
       const { content } = matter(fs.readFileSync(path.join(process.cwd(), "content", "articles", file), "utf8"));
       const words = content.match(/[A-Za-z]+(?:['’][A-Za-z]+)*(?:-[A-Za-z]+)*/g) ?? [];

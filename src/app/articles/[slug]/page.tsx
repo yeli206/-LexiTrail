@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { ArticleCover } from "@/components/article-cover";
 import { InteractiveArticle } from "@/components/interactive-article";
 import { ReadingProgress } from "@/components/reading-progress";
+import { ReadToggle } from "@/components/read-toggle";
 import { VocabularyPreview } from "@/components/vocabulary-preview";
 import { getAllArticles, getAdjacentArticles, getArticle } from "@/lib/articles";
 import { categoryLabels } from "@/lib/categories";
@@ -59,10 +60,12 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         <header className="reader-head">
           <div className="reader-shell">
             <div className="reader-head__meta">
+              <span>第 {article.number} 篇</span>
               <Link href="/articles">{categoryLabels[article.category]}</Link>
               <span>{formatDate(article.publishedAt)}</span>
               <span>{article.wordCount} words</span>
               <span>约 {article.readingMinutes} 分钟</span>
+              <ReadToggle slug={article.slug} />
             </div>
             <h1>{article.title}</h1>
             <p className="reader-head__summary">{article.summary}</p>
@@ -70,7 +73,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         </header>
 
         <div className="reader-shell">
-          <ArticleCover title={article.title} seed={article.accent} className="article-banner" />
+          <ArticleCover title={article.title} seed={article.accent} number={article.number} className="article-banner" />
         </div>
 
         <div className="reader-shell reader-grid">

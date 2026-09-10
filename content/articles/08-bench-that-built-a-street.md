@@ -1,4 +1,5 @@
 ---
+number: 8
 slug: "bench-that-built-a-street"
 title: "The Bench That Built a Street"
 summary: "A simple public seat became a small experiment in trust, hospitality, and the everyday work of belonging."

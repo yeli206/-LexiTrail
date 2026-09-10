@@ -1,4 +1,5 @@
 ---
+number: 7
 slug: "vanishing-song-archive"
 title: "The People Who Keep a Vanishing Song Alive"
 summary: "A community archive shows that preservation is not only about storing old objects. It is about teaching each generation how to listen."

@@ -1,4 +1,5 @@
 ---
+number: 1
 slug: "ai-agent-office"
 title: "The Quiet Arrival of the Office Agent"
 summary: "Small AI programs are moving from chat windows into daily work. The interesting question is not whether they can act, but where humans should stay in the loop."

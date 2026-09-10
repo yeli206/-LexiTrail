@@ -2,21 +2,23 @@ import type { CSSProperties } from "react";
 import { cn } from "@/lib/utils";
 
 const palettes = [
-  ["#1746d1", "#d8ff3e", "#f0542d"],
-  ["#f0542d", "#f6e7d4", "#1746d1"],
-  ["#173c32", "#ffb5a7", "#d8ff3e"],
-  ["#153d8a", "#f7c948", "#ef476f"],
-  ["#241a52", "#b8f2e6", "#ff6b35"],
+  ["#3157a6", "#c8d99b", "#b96850"],
+  ["#9a5f66", "#eadfc6", "#4b6b8c"],
+  ["#385a52", "#d4aaa3", "#c5d49b"],
+  ["#50698c", "#d6be72", "#9f6875"],
+  ["#4c456f", "#b9d7cf", "#c88163"],
 ] as const;
 
 export function ArticleCover({
   title,
   seed,
+  number,
   compact = false,
   className,
 }: {
   title: string;
   seed: number;
+  number: number;
   compact?: boolean;
   className?: string;
 }) {
@@ -33,7 +35,7 @@ export function ArticleCover({
       <span className="article-cover__shape article-cover__shape--one" />
       <span className="article-cover__shape article-cover__shape--two" />
       <span className="article-cover__shape article-cover__shape--three" />
-      <span className="article-cover__index">{String(seed + 1).padStart(2, "0")}</span>
+      <span className="article-cover__index">{String(number).padStart(2, "0")}</span>
       <span className="article-cover__word">{title.split(/\s+/).slice(0, 2).join(" ")}</span>
     </div>
   );

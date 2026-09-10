@@ -8,10 +8,11 @@ export function ArticleCard({ article, featured = false }: { article: Article; f
   return (
     <article className={featured ? "article-card article-card--featured" : "article-card"}>
       <Link href={`/articles/${article.slug}`} className="article-card__cover-link" aria-label={article.title}>
-        <ArticleCover title={article.title} seed={article.accent} compact={!featured} />
+        <ArticleCover title={article.title} seed={article.accent} number={article.number} compact={!featured} />
       </Link>
       <div className="article-card__body">
         <div className="article-card__meta">
+          <span>#{String(article.number).padStart(2, "0")}</span>
           <span>{categoryLabels[article.category]}</span>
           <span>{formatDate(article.publishedAt)}</span>
           <span>{article.wordCount} words</span>

@@ -3,8 +3,7 @@
 ## Contract
 
 Each article is a Markdown file in `content/articles/` with YAML frontmatter.
-The English body must be 650-750 words. Each first-batch article declares
-35-45 focus words from the canonical vocabulary list.
+The English body must be 650-750 words. Each article declares 35-45 focus words from the canonical vocabulary list. The completed corpus covers all 2,085 entries.
 
 The renderer automatically turns every English token into an interactive span
 and adds `word-target` to words present in the vocabulary list. Do not manually

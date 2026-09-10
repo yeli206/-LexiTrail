@@ -1,4 +1,5 @@
 ---
+number: 2
 slug: "body-clock-lab"
 title: "What a Body Clock Learns on a Mountain"
 summary: "A high-altitude field station reveals how light, pressure, and invisible microbes shape the strange boundary between sleep and waking."

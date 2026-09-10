@@ -1,4 +1,5 @@
 ---
+number: 3
 slug: "infinite-feed"
 title: "The Infinite Feed Is Not a Waiting Room"
 summary: "A tiny habit of scrolling became a major cultural force. Understanding it means looking at the old forms of entertainment that it quietly replaced."

@@ -19,7 +19,7 @@ for (const entry of vocabulary) {
 
 export function getVocabularyEntry(token: string) {
   const normalized = normalizeToken(token);
-  return entryByAlias.get(normalized) ?? entryByLemma.get(normalized) ?? null;
+  return entryByLemma.get(normalized) ?? entryByAlias.get(normalized) ?? null;
 }
 
 export function findVocabularyMatches(text: string) {

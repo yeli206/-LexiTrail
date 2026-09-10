@@ -25,6 +25,7 @@ export interface SourceLink {
 }
 
 export interface ArticleFrontmatter {
+  number: number;
   slug: string;
   title: string;
   summary: string;
