@@ -6,7 +6,7 @@ summary: "A coastal community repairs an aging communications mast while confron
 category: "technology"
 publishedAt: "2026-08-13"
 reviewedAt: "2026-09-10"
-focusWords: ["stationery","plague","situated","graze","softness","commission","locality","vitamin","stern","idealism","unpaid","venus","mast","violation","towards","enclosure","violate","plead","microprocessor","awful","atom","microwave","negligible","majesty","gleam","endanger","prestige","crisis","fro","mesh","trifle","crooked","stubborn","completion","hull","diplomatic","alien","distort","twist","ile","watt","elliptical","haul","hip","devour"]
+focusWords: ["stationery", "plague", "situated", "graze", "softness", "commission", "locality", "vitamin", "stern", "idealism", "venus", "mast", "violation", "towards", "enclosure", "violate", "plead", "microprocessor", "awful", "atom", "microwave", "negligible", "majesty", "gleam", "endanger", "prestige", "fro", "mesh", "trifle", "crooked", "stubborn", "completion", "hull", "diplomatic", "alien", "distort", "twist", "ile", "watt", "elliptical", "haul", "hip", "devour", "likeness", "concern", "ice", "section"]
 tags: ["基础设施","通信","环境"]
 accent: 288
 sources:

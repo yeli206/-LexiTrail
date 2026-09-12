@@ -6,7 +6,7 @@ summary: "A flooded town fights panic and misinformation while trying to rescue 
 category: "science"
 publishedAt: "2026-08-02"
 reviewedAt: "2026-09-10"
-focusWords: ["pants","bitterness","wither","fastener","clasp","stammer","panic","spatial","terrorist","suspicious","shady","pneumatic","questionable","aerial","gnaw","peacock","portable","void","adjustable","frightful","grateful","formidable","dreadful","likelihood","possibility","appreciable","respectable","whereby","shameful","ponder","comparable","exploration","discern","inaugurate","initiate","fell","reclaim","evolution","unlock","sheriff","sovereign","reel","monarch","mob"]
+focusWords: ["volunteer", "second", "operation", "pants", "bitterness", "wither", "fastener", "clasp", "stammer", "spatial", "terrorist", "suspicious", "shady", "pneumatic", "questionable", "gnaw", "peacock", "void", "adjustable", "frightful", "grateful", "formidable", "dreadful", "likelihood", "possibility", "appreciable", "respectable", "whereby", "shameful", "ponder", "comparable", "exploration", "discern", "inaugurate", "initiate", "reclaim", "evolution", "unlock", "sheriff", "sovereign", "reel", "monarch", "mob", "fence", "response", "situation"]
 tags: ["洪水","救援","谣言"]
 accent: 96
 sources:

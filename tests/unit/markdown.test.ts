@@ -1,12 +1,14 @@
 import { describe, expect, it } from "vitest";
 import { renderArticleBody } from "@/lib/markdown";
+import { getVocabularyEntry } from "@/lib/vocabulary";
 
 describe("article rendering", () => {
-  it("marks every English token and gives syllabus words a target class", async () => {
-    const html = await renderArticleBody("A **unique** thought can reveal an **optimum** route.");
-    expect(html).toContain('data-word="A"');
-    expect(html).toContain('data-word="unique"');
-    expect(html).toContain('class="word-token word-target"');
-    expect(html).toContain('data-source-id="w0455"');
+  it("wraps every English token and highlights assigned words only once", async () => {
+    const vocabulary = ["unique", "optimum", "unique"].map((word) => getVocabularyEntry(word)!).filter(Boolean);
+    const html = await renderArticleBody("A unique idea remains unique, while an optimum route stays optimum.", vocabulary);
+    expect(html).toContain("data-word=\"A\"");
+    expect(html).toContain("data-word=\"unique\"");
+    expect((html.match(/word-target/g) ?? []).length).toBe(2);
+    expect(html).toContain("data-source-id=\"w0455\"");
   });
 });

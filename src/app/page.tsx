@@ -37,7 +37,7 @@ export default function HomePage() {
               {coverage.covered}
               <small> / {coverage.total}</small>
             </div>
-            <p>每篇新增 35–45 个目标词，系统自动计算首次出现的位置。</p>
+            <p>每篇固定承载 46–47 个词条；每个词在全站只高亮一次。</p>
             <div className="progress-track" aria-label={`已覆盖 ${coverage.percentage.toFixed(1)}%`}>
               <span style={{ width: `${coverage.percentage}%` }} />
             </div>

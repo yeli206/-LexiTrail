@@ -6,7 +6,7 @@ summary: "A railway crew fights snow and uncertainty to bring a stranded night t
 category: "technology"
 publishedAt: "2026-07-17"
 reviewedAt: "2026-09-10"
-focusWords: ["jingle","trample","thrill","fret","tilt","revolve","deflect","repay","compensate","hoe","default","scoff","infer","retort","broaden","decompose","beware","grab","riot","entreat","urge","supervise","shrug","concentrate","terminate","transplant","peck","xerox","trot","solidify","boycott","chatter","plunder","endeavor","scramble","flap","tow","clockwise","slaughter","headlong","counter","melancholy","eastward","moslem"]
+focusWords: ["paper", "lever", "panic", "longing", "between", "fill", "jingle", "trample", "thrill", "fret", "tilt", "revolve", "deflect", "repay", "compensate", "hoe", "scoff", "infer", "retort", "broaden", "decompose", "beware", "grab", "riot", "entreat", "supervise", "shrug", "terminate", "transplant", "peck", "xerox", "trot", "solidify", "boycott", "chatter", "plunder", "endeavor", "scramble", "flap", "tow", "clockwise", "slaughter", "headlong", "counter", "melancholy", "eastward", "moslem"]
 tags: ["铁路","风雪","应急"]
 accent: 274
 sources:

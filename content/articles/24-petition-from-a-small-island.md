@@ -6,7 +6,7 @@ summary: "A local teacher uses evidence and diplomacy to stop a development that
 category: "internet"
 publishedAt: "2026-08-07"
 reviewedAt: "2026-09-10"
-focusWords: ["induce","dissipate","persuasion","expel","spherical","jupiter","mistress","plea","mosque","petition","cleanliness","global","rap","inclination","rash","admiration","bronze","slit","industrious","section","agreeable","hardy","compulsory","denounce","segment","mighty","constraint","pious","lobby","consistent","thoughtless","predecessor","visa","migrate","gracious","modesty","pertinent","siren","utensil","maple","kilowatt","follower","apt","garage","motel"]
+focusWords: ["induce", "dissipate", "persuasion", "expel", "spherical", "jupiter", "mistress", "plea", "mosque", "petition", "cleanliness", "global", "rap", "inclination", "rash", "admiration", "bronze", "slit", "industrious", "agreeable", "hardy", "compulsory", "denounce", "segment", "mighty", "constraint", "pious", "lobby", "consistent", "thoughtless", "predecessor", "visa", "migrate", "gracious", "modesty", "pertinent", "siren", "utensil", "maple", "kilowatt", "follower", "apt", "garage", "motel", "province", "presentation", "interview"]
 tags: ["公共参与","环境","社区"]
 accent: 2
 sources:

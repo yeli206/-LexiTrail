@@ -6,7 +6,7 @@ summary: "A simple public seat became a small experiment in trust, hospitality, 
 category: "mind"
 publishedAt: "2026-09-03"
 reviewedAt: "2026-09-10"
-focusWords: ["fellowship","sentiment","agitation","nightmare","kinetic","theft","algebra","reckless","initiative","transaction","tactics","cruelty","senator","irregularity","characterize","reason","blind","wisdom","dean","rally","revive","credit","hospitality","courtesy","courteous","gathering","confidence","dignity","abide","conceit","superb","ornament","decorative","ornamental","mount","array","diversion","convert","noted","metropolitan"]
+focusWords: ["dignity", "abide", "conceit", "superb", "ornament", "decorative", "ornamental", "mount", "array", "diversion", "convert", "metropolitan", "outside", "courteous", "steal", "confidence", "scratch", "charm", "courtesy", "gathering", "fellowship", "hospitality", "agitation", "number", "sentiment", "nightmare", "kinetic", "theft", "algebra", "reckless", "initiative", "transaction", "resident", "tactics", "cruelty", "senator", "assumption", "irregularity", "characterize", "reason", "blind", "wisdom", "dean", "rally", "revive", "credit"]
 tags: ["城市", "社区", "归属感"]
 accent: 118
 sources:

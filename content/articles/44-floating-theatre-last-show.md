@@ -6,7 +6,7 @@ summary: "A riverside theatre company fights to save its historic vessel and the
 category: "curiosity"
 publishedAt: "2026-07-18"
 reviewedAt: "2026-09-10"
-focusWords: ["hoarse","pose","eclipse","quiver","unanimous","constitution","pier","spill","flutter","frock","clown","resume","pope","axle","lounge","chord","realization","pyjamas","elegant","bishop","kernel","gesture","insert","situation","growl","buzz","shaft","breed","ear","sink","fertile","ranch","versus","grope","squat","scrub","tread","fling","escort","slander","swell","menace","tramp","suicide","winding"]
+focusWords: ["theatre", "comedy", "strange", "introduce", "carry", "winding", "lighter", "hoarse", "pose", "eclipse", "quiver", "unanimous", "constitution", "pier", "spill", "flutter", "frock", "resume", "pope", "lounge", "realization", "pyjamas", "elegant", "bishop", "ticket", "kernel", "gesture", "insert", "growl", "buzz", "breed", "ear", "sink", "fertile", "ranch", "versus", "grope", "squat", "scrub", "tread", "fling", "escort", "slander", "menace", "tramp", "suicide"]
 tags: ["戏剧","河流","文化遗产"]
 accent: 250
 sources:

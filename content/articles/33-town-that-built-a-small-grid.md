@@ -6,7 +6,7 @@ summary: "A village assembles a neighborhood power system and learns that reliab
 category: "technology"
 publishedAt: "2026-07-29"
 reviewedAt: "2026-09-10"
-focusWords: ["mixer","bribe","engagement","response","cloudy","wield","badge","modification","corrupt","environmental","locust","wasp","pregnant","desolate","glider","royalty","slide","illusion","pulley","correlate","ruby","granite","walnut","arc","transverse","exclamation","traverse","harmonious","monk","synthesis","cooperative","applause","proper","composite","howl","hurrah","log","aerospace","hesitate","pest","turtle","strait","surplus","cable"]
+focusWords: ["mixer", "bribe", "engagement", "cloudy", "wield", "modification", "corrupt", "environmental", "locust", "wasp", "pregnant", "desolate", "glider", "royalty", "slide", "illusion", "pulley", "correlate", "ruby", "granite", "walnut", "arc", "transverse", "exclamation", "traverse", "harmonious", "monk", "synthesis", "cooperative", "proper", "composite", "howl", "hurrah", "log", "aerospace", "hesitate", "pest", "turtle", "strait", "surplus", "boiler", "define", "regulation", "roller", "replacement", "spacious", "silicon"]
 tags: ["能源","基础设施","社区"]
 accent: 188
 sources:

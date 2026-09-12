@@ -6,7 +6,7 @@ summary: "A family restores a storm-damaged coastal villa and turns a private re
 category: "science"
 publishedAt: "2026-07-21"
 reviewedAt: "2026-09-10"
-focusWords: ["immortal","misfortune","incompatible","stuffy","instability","improper","dissatisfaction","irrespective","opaque","inevitably","watertight","inaccurate","unreasonable","uncertain","impurity","disregard","inadequate","invariably","uneasy","supplement","complement","compensation","barge","humanitarian","icy","invalid","objective","fluctuation","villa","fluctuate","signify","ward","manifest","seemingly","superficial","criterion","discrimination","advocate","transform","alteration","loosen","edit","rim","hearth"]
+focusWords: ["immortal", "misfortune", "incompatible", "stuffy", "instability", "improper", "dissatisfaction", "irrespective", "opaque", "inevitably", "watertight", "inaccurate", "unreasonable", "uncertain", "impurity", "disregard", "inadequate", "invariably", "supplement", "complement", "barge", "humanitarian", "icy", "invalid", "objective", "fluctuation", "villa", "fluctuate", "signify", "ward", "manifest", "seemingly", "superficial", "criterion", "discrimination", "advocate", "transform", "alteration", "loosen", "edit", "rim", "hearth", "verge", "fireplace", "patron", "diploma"]
 tags: ["海岸","建筑","气候适应"]
 accent: 160
 sources:

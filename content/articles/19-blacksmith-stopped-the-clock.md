@@ -6,7 +6,7 @@ summary: "A local currency experiment reveals how trust, information, and shared
 category: "mind"
 publishedAt: "2026-08-12"
 reviewedAt: "2026-09-10"
-focusWords: ["retirement","drawback","inference","rational","propulsion","propel","overthrow","impulse","presumably","shove","solidarity","regiment","bandit","lever","overtake","nose","bald","misery","torment","dominant","dominate","identical","likeness","homogeneous","notify","simultaneous","coordinate","accessory","whilst","currency","inflation","ordinarily","resignation","hydrocarbon","blacksmith","skip","ferrous","hop","modulate","settlement","adjoin","mischief","questionnaire","catholic","sweetness"]
+focusWords: ["trade", "retirement", "drawback", "inference", "rational", "propulsion", "propel", "overthrow", "impulse", "presumably", "shove", "solidarity", "regiment", "bandit", "overtake", "nose", "bald", "misery", "torment", "dominant", "dominate", "identical", "homogeneous", "notify", "simultaneous", "accessory", "whilst", "currency", "inflation", "ordinarily", "resignation", "hydrocarbon", "blacksmith", "skip", "ferrous", "hop", "modulate", "settlement", "adjoin", "mischief", "questionnaire", "sweetness", "plain", "perish", "velvet", "treasurer"]
 tags: ["经济","社区","信任"]
 accent: 302
 sources:

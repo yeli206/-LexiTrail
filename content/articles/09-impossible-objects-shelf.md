@@ -6,7 +6,7 @@ summary: "Some inventions fail because they are impossible. Others fail because 
 category: "curiosity"
 publishedAt: "2026-09-02"
 reviewedAt: "2026-09-10"
-focusWords: ["patent","singular","house","novel","unique","peril","strange","peculiarity","individual","essential","scout","hazard","crank","marvel","stray","jerk","fuss","exceptional","fantastic","monstrous","romantic","pedestrian","monster","incidentally","extraordinarily","detector","gamble","dazzle","stagger","spectacle","haunt","shovel","groove","souvenir","murmur","whisper","occurrence","conviction"]
+focusWords: ["patent", "consequence", "singular", "novel", "unique", "peril", "projector", "peculiarity", "individual", "essential", "scout", "occurrence", "hazard", "conviction", "certainty", "crank", "marvel", "stagger", "stray", "jerk", "fuss", "exceptional", "fantastic", "monstrous", "gigantic", "souvenir", "romantic", "pedestrian", "monster", "incidentally", "extraordinarily", "aviation", "mirror", "detector", "gamble", "whisper", "murmur", "sensor", "spectacle", "haunt", "shovel", "groove", "rule", "friction", "except", "rotate", "dazzle"]
 tags: ["发明", "奇闻", "博物馆"]
 accent: 140
 sources:

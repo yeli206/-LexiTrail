@@ -6,7 +6,7 @@ summary: "A group of textile workers turns a vague promise into a fair agreement
 category: "mind"
 publishedAt: "2026-08-19"
 reviewedAt: "2026-09-10"
-focusWords: ["rebuke","indicative","instructor","denote","designate","colonial","vocation","merit","weaver","brace","regime","bearing","politics","confirmation","testify","correctly","positive","normalization","conqueror","controversy","suppress","gust","sincerity","cherish","detective","underline","literally","illuminate","summon","marsh","hindrance","sofa","tensile","warfare","predominant","cling","viscous","coherent","album","adhere","multiplication","liability","shipbuilding","grasshopper","wink"]
+focusWords: ["rebuke", "indicative", "instructor", "denote", "designate", "colonial", "vocation", "merit", "weaver", "brace", "regime", "bearing", "politics", "confirmation", "testify", "correctly", "positive", "normalization", "conqueror", "controversy", "suppress", "gust", "sincerity", "cherish", "detective", "underline", "literally", "illuminate", "summon", "marsh", "hindrance", "sofa", "tensile", "warfare", "predominant", "cling", "viscous", "coherent", "album", "adhere", "multiplication", "liability", "shipbuilding", "grasshopper", "wink", "obligation", "evenly"]
 tags: ["劳动","协商","手艺"]
 accent: 201
 sources:

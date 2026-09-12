@@ -6,7 +6,7 @@ summary: "A one-room studio turns broken prototypes into an archive of practical
 category: "technology"
 publishedAt: "2026-08-20"
 reviewedAt: "2026-09-10"
-focusWords: ["initially","makeup","utmost","optimum","block","damn","outer","integral","grunt","composer","slave","resultant","consequent","charter","main","descendant","endow","datum","bourgeois","bump","crash","shipment","torque","clutch","coin","inject","principally","stalk","preside","eject","bamboo","jewellery","wrinkle","axial","axis","anniversary","peripheral","perimeter","anybody","responsible","hearty","intermediate","qualitative","fabricate","fabrication"]
+focusWords: ["initially", "makeup", "utmost", "optimum", "block", "damn", "outer", "integral", "grunt", "composer", "slave", "resultant", "consequent", "charter", "main", "descendant", "endow", "datum", "bourgeois", "bump", "crash", "shipment", "torque", "clutch", "coin", "inject", "principally", "stalk", "preside", "eject", "bamboo", "jewellery", "wrinkle", "axial", "axis", "anniversary", "peripheral", "perimeter", "anybody", "responsible", "hearty", "intermediate", "qualitative", "fabricate", "fabrication", "cross"]
 tags: ["设计","制造","失败学习"]
 accent: 186
 sources:

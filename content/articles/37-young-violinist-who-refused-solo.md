@@ -6,7 +6,7 @@ summary: "A gifted performer challenges a competition, a jealous rival, and the 
 category: "mind"
 publishedAt: "2026-07-25"
 reviewedAt: "2026-09-10"
-focusWords: ["motive","dynamo","rattle","dioxide","offspring","bait","youngster","whereas","malice","subsequent","spite","yoke","deprive","mountainous","windy","versatile","stew","mop","halve","provoke","symmetry","symmetrical","resent","assert","affirm","alignment","jealousy","cuckoo","jam","solo","linger","distinct","dictator","fighter","champion","insight","jelly","tease","cavity","grease","disturbance","mobilize","location","theorem"]
+focusWords: ["audience", "motive", "dynamo", "rattle", "dioxide", "offspring", "bait", "youngster", "whereas", "malice", "subsequent", "spite", "yoke", "deprive", "mountainous", "windy", "versatile", "stew", "mop", "halve", "provoke", "symmetry", "symmetrical", "resent", "assert", "affirm", "jealousy", "cuckoo", "jam", "solo", "linger", "distinct", "dictator", "fighter", "champion", "insight", "jelly", "tease", "cavity", "grease", "disturbance", "mobilize", "theorem", "uneasy", "chord", "concentrate"]
 tags: ["音乐","竞争","心理"]
 accent: 34
 sources:

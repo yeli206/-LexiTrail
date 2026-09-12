@@ -6,7 +6,7 @@ summary: "A rural cooperative rebuilds after a windstorm and discovers that inde
 category: "technology"
 publishedAt: "2026-07-26"
 reviewedAt: "2026-09-10"
-focusWords: ["flatter","landscape","windmill","abundance","indignation","plump","molecular","shatter","limb","offset","fraction","analytic","installment","split","detach","partition","relay","diverge","litter","abolish","gangster","fly","indulge","herd","handicap","hamper","estate","handy","blunder","offence","echo","contrary","contradict","decree","flannel","valve","originate","spokesman","outlet","incidence","flame","luminous","exert","beam"]
+focusWords: ["grind", "wind", "network", "perfect", "late", "flatter", "windmill", "abundance", "indignation", "plump", "molecular", "shatter", "limb", "offset", "fraction", "analytic", "installment", "detach", "partition", "relay", "diverge", "litter", "abolish", "gangster", "fly", "indulge", "herd", "handicap", "hamper", "estate", "handy", "blunder", "offence", "echo", "contrary", "contradict", "decree", "flannel", "valve", "originate", "spokesman", "outlet", "incidence", "flame", "luminous", "exert", "beam"]
 tags: ["能源","灾后重建","合作"]
 accent: 10
 sources:

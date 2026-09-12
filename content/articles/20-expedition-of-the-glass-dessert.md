@@ -6,7 +6,7 @@ summary: "A restless pastry chef builds a traveling exhibition that connects foo
 category: "curiosity"
 publishedAt: "2026-08-11"
 reviewedAt: "2026-09-10"
-focusWords: ["theme","accord","nominate","dessert","embody","enhance","elevate","purify","flee","earthenware","expedition","charcoal","plain","greed","negotiate","pedal","moss","thereof","trivial","concern","miniature","hurt","deformation","deform","shorthand","garlic","fringe","perish","random","laundry","hiss","loosely","rip","speculate","smuggle","velvet","treasurer","exposition","preach","momentary","instantaneous","couch","numerical","harp","reckon"]
+focusWords: ["theme", "accord", "nominate", "dessert", "embody", "enhance", "elevate", "purify", "earthenware", "expedition", "greed", "negotiate", "pedal", "moss", "thereof", "trivial", "miniature", "hurt", "deformation", "deform", "shorthand", "fringe", "random", "laundry", "hiss", "loosely", "rip", "speculate", "smuggle", "exposition", "preach", "momentary", "instantaneous", "couch", "numerical", "harp", "reckon", "producer", "deliberately", "repel", "scheme", "studio", "landscape", "report", "sermon", "absent"]
 tags: ["美食","展览","消费"]
 accent: 316
 sources:

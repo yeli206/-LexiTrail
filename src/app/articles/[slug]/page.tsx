@@ -39,7 +39,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
   const article = getArticle(slug);
   if (!article) notFound();
 
-  const html = await renderArticleBody(article.body);
+  const html = await renderArticleBody(article.body, article.vocabulary);
   const { newer, older } = getAdjacentArticles(article.slug);
   const jsonLd = {
     "@context": "https://schema.org",

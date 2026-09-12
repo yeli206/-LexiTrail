@@ -6,7 +6,7 @@ summary: "A tiny habit of scrolling became a major cultural force. Understanding
 category: "internet"
 publishedAt: "2026-09-08"
 reviewedAt: "2026-09-10"
-focusWords: ["audience","entertainment","amusement","press","recreation","theatre","advertise","popularity","editorial","periodical","prevalent","retail","literary","framework","studio","propagation","propagate","romance","spectator","pop","disperse","pedlar","gossip","ramble","priority","decline","precede","subtle","hit","novelty","consumption","subscribe","recommendation","platform","bulletin","report","announce","declaration","cartoon","melody"]
+focusWords: ["entertainment", "amusement", "press", "melody", "declaration", "formal", "novelty", "recreation", "consumption", "gossip", "ramble", "priority", "decline", "precede", "infinite", "subtle", "recommendation", "gather", "advertise", "popularity", "nourish", "bore", "editorial", "claim", "periodical", "ingredient", "cartoon", "video", "prevalent", "retail", "literary", "version", "set", "framework", "hit", "propagation", "propagate", "subscribe", "widely", "romance", "spectator", "pop", "disperse", "pace", "hard", "pedlar", "bulletin"]
 tags: ["社交媒体", "注意力", "文化"]
 accent: 30
 sources:

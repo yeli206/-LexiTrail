@@ -6,7 +6,7 @@ summary: "A coastal community uses a strange warning tradition to save both a st
 category: "mind"
 publishedAt: "2026-08-01"
 reviewedAt: "2026-09-10"
-focusWords: ["bugle","decisive","extinct","polymer","govern","hurricane","sting","curly","repel","uphold","exemplify","rectangle","reside","administration","induction","christ","second-hand","dwell","symposium","whoever","rectify","competitor","competitive","contend","whale","selection","thorough","refinery","finely","vigorous","fright","dismay","astonishment","empirical","longitude","notwithstanding","prohibition","perfection","shortcut","prudent","inlet","compact","tightly","barely"]
+focusWords: ["species", "through", "team", "sight", "bugle", "decisive", "extinct", "polymer", "govern", "hurricane", "curly", "uphold", "exemplify", "rectangle", "reside", "administration", "induction", "christ", "second-hand", "dwell", "symposium", "whoever", "rectify", "competitor", "competitive", "contend", "alert", "whale", "selection", "thorough", "refinery", "finely", "vigorous", "fright", "dismay", "astonishment", "empirical", "longitude", "notwithstanding", "prohibition", "perfection", "prudent", "inlet", "compact", "tightly", "location", "initial"]
 tags: ["海岸","救援","协作"]
 accent: 118
 sources:

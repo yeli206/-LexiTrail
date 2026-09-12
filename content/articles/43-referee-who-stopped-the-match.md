@@ -6,7 +6,7 @@ summary: "A referee halts a championship game after recognizing a hidden danger,
 category: "mind"
 publishedAt: "2026-07-19"
 reviewedAt: "2026-09-10"
-focusWords: ["blond","bestow","subdivide","tabulate","dock","straighten","flatten","ascribe","entitle","haughty","ballet","foul","assassinate","burial","luxurious","patriot","patriotic","dwarf","alas","stout","pathetic","egyptian","ought","referee","scripture","pendulum","gross","outbreak","heave","shuttle","mild","rigorous","climax","shrimp","panel","peak","epoch","drain","cane","immigrate","board","lump","elapse","deviate","heading"]
+focusWords: ["action", "battle", "drama", "move", "coach", "heading", "blond", "bestow", "subdivide", "tabulate", "straighten", "flatten", "ascribe", "entitle", "haughty", "ballet", "foul", "assassinate", "burial", "luxurious", "patriot", "patriotic", "dwarf", "alas", "stout", "pathetic", "egyptian", "ought", "referee", "scripture", "pendulum", "gross", "heave", "shuttle", "mild", "rigorous", "climax", "shrimp", "peak", "epoch", "drain", "cane", "immigrate", "lump", "elapse", "deviate"]
 tags: ["体育","判断","公共安全"]
 accent: 208
 sources:

@@ -6,7 +6,7 @@ summary: "A quiet archive clerk uncovers a confidential deposition that could ov
 category: "curiosity"
 publishedAt: "2026-08-04"
 reviewedAt: "2026-09-10"
-focusWords: ["promptly","brightness","deposition","sensitivity","enchant","representation","confidential","fascinate","superstition","perplex","bewilder","hurl","pore","offensive","ally","threshold","expire","fair","bull","wharf","circus","ass","filter","propeller","spiral","nut","oval","roman","thesis","reed","forum","hug","stairway","bridle","monopoly","exile","streamline","flux","rascal","otherwise","gramophone","province","vicinity","consul"]
+focusWords: ["can", "promptly", "brightness", "deposition", "sensitivity", "enchant", "representation", "confidential", "fascinate", "superstition", "perplex", "bewilder", "hurl", "pore", "offensive", "ally", "threshold", "expire", "fair", "bull", "wharf", "circus", "ass", "filter", "propeller", "spiral", "nut", "oval", "roman", "thesis", "reed", "hug", "stairway", "bridle", "monopoly", "exile", "streamline", "flux", "rascal", "otherwise", "gramophone", "vicinity", "consul", "portable", "shortcut", "metallic", "storm"]
 tags: ["档案","悬疑","历史"]
 accent: 52
 sources:

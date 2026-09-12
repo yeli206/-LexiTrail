@@ -6,7 +6,7 @@ summary: "A neglected courtyard becomes a lesson in urban ecology when a gardene
 category: "science"
 publishedAt: "2026-09-05"
 reviewedAt: "2026-09-10"
-focusWords: ["woodpecker","ornamental","mount","nest","hose","unfold","cement","hollow","perpetual","squash","flush","puppy","slack","lace","poll","dizzy","thrash","wade","rear","buffalo","rinse","hydraulic","watery","erect","blaze","shark","sardine","pitch","flock","flask","flake","foam","range","drainage","leakage","willow","grove","chestnut","dust","tuna"]
+focusWords: ["woodpecker", "nest", "hose", "unfold", "cement", "strip", "hollow", "perpetual", "squash", "flush", "puppy", "slack", "lace", "web", "poll", "dizzy", "thrash", "wade", "plastic", "rear", "buffalo", "rinse", "hydraulic", "watery", "erect", "distinguish", "blaze", "shark", "sardine", "pitch", "flock", "flask", "flake", "foam", "range", "nursery", "vine", "leakage", "willow", "grove", "chestnut", "tuna", "beetle", "harsh", "stem", "tar", "perch"]
 tags: ["城市生态", "自然", "生物多样性"]
 accent: 76
 sources:

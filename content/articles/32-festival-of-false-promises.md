@@ -6,7 +6,7 @@ summary: "A documentary crew exposes a fake health product at a traveling festiv
 category: "internet"
 publishedAt: "2026-07-30"
 reviewedAt: "2026-09-10"
-focusWords: ["sham","clamp","presume","fake","heater","sandwich","deepen","homely","heighten","fowl","line","poultry","stillness","lodging","succession","successor","quarterly","documentary","disorder","scheme","marginal","forthcoming","polarity","bazaar","guitar","irritate","timely","drastic","radical","christian","energetic","elemental","severe","dynamic","ultimate","witty","muscular","ingenious","ingenuity","ham","mars","piston","tact","vigour"]
+focusWords: ["sham", "clamp", "presume", "fake", "sandwich", "deepen", "homely", "heighten", "fowl", "poultry", "stillness", "lodging", "succession", "successor", "quarterly", "documentary", "disorder", "marginal", "forthcoming", "polarity", "bazaar", "guitar", "irritate", "timely", "drastic", "radical", "christian", "energetic", "elemental", "severe", "dynamic", "ultimate", "witty", "muscular", "ingenious", "ingenuity", "ham", "mars", "piston", "tact", "vigour", "badge", "duplicate", "triumphant", "row", "substance"]
 tags: ["纪录片","骗局","科学传播"]
 accent: 164
 sources:

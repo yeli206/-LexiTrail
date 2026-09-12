@@ -6,7 +6,7 @@ summary: "A repair workshop turns cracked, rusty, and outdated objects into a le
 category: "curiosity"
 publishedAt: "2026-09-01"
 reviewedAt: "2026-09-10"
-focusWords: ["sneer","ridicule","parade","ferry","porcelain","ivory","zinc","oxide","metallurgy","fragile","frail","crisp","smash","toss","friction","shell","fossil","reveal","reject","gear","hinge","hook","tack","clatter","flask","warehouse","scrap","mock","absurd","stiffness","decay","erosion","corrosion","endurance","flaw","forge"]
+focusWords: ["glue", "hook", "stiffness", "metallurgy", "oxide", "zinc", "ivory", "foreign", "scrap", "shame", "decay", "flaw", "shell", "endurance", "snap", "parade", "fossil", "hinge", "applaud", "reveal", "dry", "maintenance", "corrosion", "erosion", "seam", "ferry", "electronics", "clatter", "smash", "forge", "frail", "crisp", "porcelain", "gear", "mock", "warehouse", "absurd", "strength", "fall", "market", "clearing", "shade", "crack", "tighten", "ridicule", "sneer"]
 tags: ["修复", "材料", "博物馆"]
 accent: 164
 sources:

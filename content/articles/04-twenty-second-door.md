@@ -6,7 +6,7 @@ summary: "A small experiment in an old college library shows why the easiest pat
 category: "mind"
 publishedAt: "2026-09-07"
 reviewedAt: "2026-09-10"
-focusWords: ["watchful","notable","grind","reproduction","senseless","significant","observation","scholarship","bachelor","catalogue","calculus","statistics","customary","overlook","astronomy","observe","terminology","vision","freshen","subject","terrify","sociology","divine","tone","junior","tickle","feel","formulation","sensible","stereo","historian","mechanics","commence","vein","warning","economics","economically","doctrine","geometrical"]
+focusWords: ["watchful", "notable", "reproduction", "senseless", "significant", "head", "tempt", "observation", "scholarship", "physically", "bachelor", "catalogue", "calculus", "statistics", "customary", "overlook", "astronomy", "observe", "terminology", "vision", "freshen", "terrify", "sociology", "divine", "tone", "gap", "choice", "junior", "tickle", "formulation", "sensible", "expect", "stereo", "historian", "mechanics", "commence", "start", "vein", "warning", "economics", "economically", "doctrine", "line", "geometrical", "breakfast", "norm"]
 tags: ["习惯", "心理学", "学习"]
 accent: 46
 sources:

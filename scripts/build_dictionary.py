@@ -84,8 +84,17 @@ def main() -> None:
             "sourceId": entry["id"],
         }
         by_source_id[entry["id"]] = record
-        for key in {entry["lemma"], entry["display"].lower(), *[a.lower() for a in entry["aliases"]]}:
-            records[normalize_token(key)] = record
+        records[normalize_token(entry["lemma"])] = record
+        records[normalize_token(entry["display"])] = record
+
+    for entry in vocab_entries:
+        record = by_source_id.get(entry["id"])
+        if not record:
+            continue
+        for alias in entry["aliases"]:
+            key = normalize_token(alias)
+            if len(key) >= 2:
+                records.setdefault(key, record)
 
     unknown: set[str] = set()
     for word in wanted:

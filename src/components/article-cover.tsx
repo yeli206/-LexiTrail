@@ -2,11 +2,11 @@ import type { CSSProperties } from "react";
 import { cn } from "@/lib/utils";
 
 const palettes = [
-  ["#3157a6", "#c8d99b", "#b96850"],
-  ["#9a5f66", "#eadfc6", "#4b6b8c"],
-  ["#385a52", "#d4aaa3", "#c5d49b"],
-  ["#50698c", "#d6be72", "#9f6875"],
-  ["#4c456f", "#b9d7cf", "#c88163"],
+  ["#7485a2", "#c7cfb7", "#9d7b7b"],
+  ["#957b83", "#ddd2c4", "#73859a"],
+  ["#73877f", "#c8bbb4", "#b7c3a7"],
+  ["#7888a4", "#d1c5a8", "#9c818b"],
+  ["#777086", "#bdcdc7", "#b0927e"],
 ] as const;
 
 export function ArticleCover({

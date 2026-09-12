@@ -6,7 +6,7 @@ summary: "A young farmer uses records, community aid, and experimental machines 
 category: "science"
 publishedAt: "2026-07-28"
 reviewedAt: "2026-09-10"
-focusWords: ["excess","overestimate","orchard","pirate","peel","seaside","excessively","slap","boiler","define","regulation","salmon","roller","replacement","spacious","silicon","radial","regularity","amplitude","photoelectric","orchestra","optical","blast","shrub","pipe","irrigation","coffin","inertia","bureaucracy","obstinate","inherent","fixture","pluck","skeleton","thigh","constitute","cereal","assessment","hound","tribute","gutter","arch","commonwealth","impartial"]
+focusWords: ["excess", "overestimate", "orchard", "pirate", "peel", "seaside", "excessively", "slap", "salmon", "radial", "regularity", "amplitude", "photoelectric", "orchestra", "optical", "blast", "shrub", "pipe", "coffin", "inertia", "bureaucracy", "obstinate", "inherent", "fixture", "pluck", "skeleton", "thigh", "constitute", "cereal", "assessment", "hound", "tribute", "gutter", "arch", "commonwealth", "impartial", "alignment", "underestimate", "shipwreck", "compensation", "tragic", "panel", "switch", "board", "shaft", "urge"]
 tags: ["农业","洪水","恢复"]
 accent: 212
 sources:

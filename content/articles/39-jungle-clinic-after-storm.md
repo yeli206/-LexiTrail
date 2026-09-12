@@ -6,7 +6,7 @@ summary: "A rural health team races to contain an infectious outbreak while prot
 category: "science"
 publishedAt: "2026-07-23"
 reviewedAt: "2026-09-10"
-focusWords: ["snore","thresh","passport","inaccessible","latent","frustrate","catalyst","promotion","vulgar","overflow","massive","smart","thereafter","jungle","prick","initial","sheer","perpendicular","poke","author","lipstick","stainless","puff","infectious","shipwreck","herald","circular","leaflet","convey","pierce","penetration","antenna","penalty","virgin","exclusive","notorious","specimen","extraction","equator","adore","worship","punch","strife","bug"]
+focusWords: ["bed", "satellite", "snore", "thresh", "inaccessible", "latent", "frustrate", "catalyst", "promotion", "vulgar", "overflow", "massive", "smart", "thereafter", "jungle", "prick", "sheer", "perpendicular", "poke", "author", "lipstick", "stainless", "puff", "infectious", "herald", "circular", "leaflet", "convey", "pierce", "penetration", "antenna", "penalty", "virgin", "exclusive", "notorious", "scandal", "specimen", "extraction", "equator", "adore", "worship", "punch", "strife", "bug", "kit", "inclusive", "swell"]
 tags: ["公共卫生","森林","谣言"]
 accent: 82
 sources:

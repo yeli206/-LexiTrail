@@ -6,7 +6,7 @@ summary: "A reporter disappears while investigating a remote Pacific community, 
 category: "internet"
 publishedAt: "2026-08-15"
 reviewedAt: "2026-09-10"
-focusWords: ["propaganda","warrant","console","nun","requisite","pacific","survival","wind","constituent","scarlet","regenerative","appreciation","bridegroom","jean","crab","gradient","subscript","evil","sideways","vicious","wedge","paragraph","caution","suitcase","decimal","footpath","closet","pamphlet","disappearance","token","depression","forward","onward(s)","orientation","defy","southwards","northwards","yearn","hail","spice","fragrant","incense","uniformly","correlation","interact"]
+focusWords: ["propaganda", "warrant", "console", "nun", "requisite", "pacific", "survival", "constituent", "scarlet", "regenerative", "appreciation", "bridegroom", "jean", "crab", "gradient", "subscript", "evil", "sideways", "vicious", "wedge", "paragraph", "caution", "suitcase", "decimal", "footpath", "closet", "pamphlet", "disappearance", "token", "depression", "forward", "onward(s)", "orientation", "defy", "southwards", "northwards", "yearn", "hail", "spice", "fragrant", "incense", "uniformly", "correlation", "interact", "coordinate", "collide"]
 tags: ["调查报道","失踪案","太平洋"]
 accent: 260
 sources:

@@ -6,7 +6,7 @@ import matter from "gray-matter";
 import { cache } from "react";
 import { z } from "zod";
 import type { Article, VocabularyEntry } from "@/lib/types";
-import { findVocabularyMatches, getVocabularyEntry } from "@/lib/vocabulary";
+import { getVocabularyEntry } from "@/lib/vocabulary";
 
 const sourceSchema = z.object({
   title: z.string().min(2),
@@ -23,13 +23,23 @@ const frontmatterSchema = z.object({
   category: z.enum(["technology", "science", "internet", "mind", "curiosity"]),
   publishedAt: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
   reviewedAt: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
-  focusWords: z.array(z.string()).min(35).max(45),
+  focusWords: z.array(z.string()).min(46).max(47),
   tags: z.array(z.string()).min(2).max(5),
   accent: z.number().int().min(0).max(359),
   sources: z.array(sourceSchema).min(3).max(5),
 });
 
 const CONTENT_DIRECTORY = path.join(process.cwd(), "content", "articles");
+
+function findVocabularyIds(text: string) {
+  const found = new Set<string>();
+  const tokens = text.match(/[A-Za-z]+(?:['’][A-Za-z]+)*(?:-[A-Za-z]+)*/g) ?? [];
+  for (const token of tokens) {
+    const entry = getVocabularyEntry(token);
+    if (entry) found.add(entry.id);
+  }
+  return found;
+}
 
 function countEnglishWords(text: string) {
   return (text.match(/[A-Za-z]+(?:['’][A-Za-z]+)*(?:-[A-Za-z]+)*/g) ?? []).length;
@@ -41,15 +51,20 @@ function parseArticleFile(filePath: string): Article {
   const frontmatter = frontmatterSchema.parse(data);
   const body = content.trim();
   const wordCount = countEnglishWords(body);
-  const vocabulary = findVocabularyMatches(body);
-
-  for (const focusWord of frontmatter.focusWords) {
+  const vocabulary = frontmatter.focusWords.map((focusWord) => {
     const entry = getVocabularyEntry(focusWord);
-    if (!entry) {
-      throw new Error(`Unknown focus word "${focusWord}" in ${frontmatter.slug}`);
-    }
-    if (!vocabulary.some((candidate) => candidate.id === entry.id)) {
-      throw new Error(`Focus word "${focusWord}" does not occur in ${frontmatter.slug}`);
+    if (!entry) throw new Error(`Unknown focus word "${focusWord}" in ${frontmatter.slug}`);
+    return entry;
+  });
+
+  if (new Set(vocabulary.map((entry) => entry.id)).size !== vocabulary.length) {
+    throw new Error(`Duplicate focus words in ${frontmatter.slug}`);
+  }
+
+  const bodyMatches = findVocabularyIds(body);
+  for (const entry of vocabulary) {
+    if (!bodyMatches.has(entry.id)) {
+      throw new Error(`Focus word "${entry.display}" does not occur in ${frontmatter.slug}`);
     }
   }
 

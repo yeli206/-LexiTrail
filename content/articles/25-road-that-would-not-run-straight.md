@@ -6,7 +6,7 @@ summary: "A small town redesigns a dangerous highway and discovers that safety d
 category: "science"
 publishedAt: "2026-08-06"
 reviewedAt: "2026-09-10"
-focusWords: ["pant","hitherto","jack","motorway","sitting-room","barometer","count","implore","knight","subsequently","cheat","currently","universally","raisin","bushel","fracture","bankrupt","persecute","incline","destructive","terrace","tranquil","civilian","equation","commonplace","frequency","bleach","barren","float","adjacent","deflection","cape","clash","prejudice","collide","battery","limp","bypass","ascend","dispatch","hover","faction","clap","ohm"]
+focusWords: ["pant", "hitherto", "jack", "motorway", "sitting-room", "barometer", "count", "implore", "knight", "subsequently", "cheat", "currently", "universally", "raisin", "bushel", "fracture", "bankrupt", "persecute", "incline", "destructive", "terrace", "tranquil", "civilian", "equation", "commonplace", "frequency", "bleach", "barren", "float", "adjacent", "deflection", "cape", "clash", "prejudice", "battery", "limp", "bypass", "ascend", "dispatch", "hover", "faction", "clap", "ohm", "forum", "bridge", "stone"]
 tags: ["交通","工程","生态"]
 accent: 20
 sources:

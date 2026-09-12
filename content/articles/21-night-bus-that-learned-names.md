@@ -6,7 +6,7 @@ summary: "A municipal transport experiment turns a lonely evening route into a t
 category: "mind"
 publishedAt: "2026-08-10"
 reviewedAt: "2026-09-10"
-focusWords: ["wrestle","proficient","proficiency","grant","handbook","miser","adoption","trolley","oath","vow","indoor","moderately","fitting","snob","snobbish","attendant","municipal","conform","divert","specialize","standardize","lengthen","resign","ventilate","infect","soften","acquaint","facilitate","lubricate","paralyse","subdue","sorrowful","suit","confront","insulate","deafen","integrate","tiresome","moor","alternate","minimize","mingle","interconnect","reconcile","enrich"]
+focusWords: ["wrestle", "proficient", "proficiency", "grant", "handbook", "miser", "adoption", "trolley", "oath", "vow", "indoor", "moderately", "fitting", "snob", "snobbish", "attendant", "municipal", "conform", "divert", "specialize", "standardize", "lengthen", "resign", "ventilate", "infect", "soften", "acquaint", "facilitate", "lubricate", "paralyse", "subdue", "sorrowful", "suit", "confront", "insulate", "deafen", "integrate", "tiresome", "moor", "alternate", "minimize", "mingle", "interconnect", "reconcile", "enrich", "program", "should"]
 tags: ["公共交通","归属感","城市"]
 accent: 320
 sources:

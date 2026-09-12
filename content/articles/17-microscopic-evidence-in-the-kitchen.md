@@ -6,7 +6,7 @@ summary: "A food scientist uses tiny measurements to expose a problem that almos
 category: "science"
 publishedAt: "2026-08-14"
 reviewedAt: "2026-09-10"
-focusWords: ["coincide","inversely","striking","qualify","reciprocal","devotion","microscopic","realistic","distinctly","linear","bacon","apparent","shower","descent","subordinate","slim","taper","petty","inferior","nice","filament","systematically","spectrum","quench","tape","assault","usage","extinguish","absorption","intake","substantial","luncheon","insignificant","doubtless","infinitely","indefinite","unlimited","incapable","fearless","innumerable","faultless","ruthless","nought","filth","compliment"]
+focusWords: ["coincide", "inversely", "striking", "qualify", "reciprocal", "devotion", "microscopic", "realistic", "distinctly", "linear", "bacon", "apparent", "shower", "descent", "subordinate", "slim", "taper", "petty", "inferior", "nice", "filament", "systematically", "spectrum", "quench", "tape", "assault", "usage", "extinguish", "absorption", "intake", "substantial", "luncheon", "insignificant", "doubtless", "infinitely", "indefinite", "unlimited", "incapable", "fearless", "innumerable", "faultless", "ruthless", "nought", "filth", "compliment", "unpaid"]
 tags: ["食品科学","测量","证据"]
 accent: 274
 sources:

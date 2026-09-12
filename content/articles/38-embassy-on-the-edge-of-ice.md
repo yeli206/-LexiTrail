@@ -6,7 +6,7 @@ summary: "A remote research outpost becomes a diplomatic refuge when a storm tra
 category: "internet"
 publishedAt: "2026-07-24"
 reviewedAt: "2026-09-10"
-focusWords: ["orient","summit","capacitance","electrode","capacitor","electrician","telex","first-rate","kindle","basement","hostile","magistrate","underestimate","enroll","burner","equivalent","morality","triumphant","attendance","cartridge","yolk","detain","simplicity","attorney","deputy","jug","delegate","representative","massacre","gorilla","embassy","magnitude","ambassador","stride","mansion","continental","multitude","barley","infinity","steak","butt","largely","prairie","sneeze"]
+focusWords: ["further", "orient", "summit", "capacitance", "electrode", "capacitor", "electrician", "telex", "first-rate", "kindle", "basement", "hostile", "magistrate", "enroll", "burner", "equivalent", "morality", "attendance", "cartridge", "yolk", "detain", "simplicity", "attorney", "deputy", "jug", "delegate", "representative", "massacre", "gorilla", "embassy", "magnitude", "ambassador", "stride", "mansion", "continental", "multitude", "barley", "infinity", "steak", "butt", "largely", "prairie", "sneeze", "passport", "length", "bank"]
 tags: ["外交","科考站","合作"]
 accent: 58
 sources:

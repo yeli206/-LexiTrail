@@ -6,7 +6,7 @@ summary: "A market trader discovers that a changing climate can turn ordinary go
 category: "science"
 publishedAt: "2026-08-08"
 reviewedAt: "2026-09-10"
-focusWords: ["maid","maiden","extravagant","scorch","heaven","counsel","trader","tradesman","dealer","merchandise","ware","goodness","gravel","underwear","cancel","sift","uproar","stroll","triangular","prose","emission","tolerant","mute","commodity","deem","recognition","merciful","undertaking","identification","personnel","hostage","humanity","thermal","tropic","personality","tropical","concession","combustion","whisker","deficiency","quantify","deficient","positively","scarcity","extract"]
+focusWords: ["maid", "maiden", "extravagant", "scorch", "heaven", "counsel", "trader", "tradesman", "dealer", "merchandise", "ware", "goodness", "gravel", "underwear", "cancel", "sift", "uproar", "stroll", "triangular", "prose", "emission", "tolerant", "mute", "commodity", "deem", "recognition", "merciful", "undertaking", "identification", "personnel", "hostage", "humanity", "thermal", "tropic", "personality", "tropical", "concession", "combustion", "whisker", "deficiency", "quantify", "deficient", "positively", "scarcity", "extract", "capability"]
 tags: ["气候","贸易","资源"]
 accent: 348
 sources:

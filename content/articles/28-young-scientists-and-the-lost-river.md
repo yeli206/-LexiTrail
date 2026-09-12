@@ -6,7 +6,7 @@ summary: "A school experiment grows into a serious investigation when students d
 category: "science"
 publishedAt: "2026-08-03"
 reviewedAt: "2026-09-10"
-focusWords: ["fission","flexible","prey","inspiration","martyr","neighbouring","grin","blush","attachment","ripple","quantitative","junction","allied","mitten","impose","utilization","cubic","legislation","historic","intellect","ideally","slang","ion","twilight","prism","grim","troublesome","similarity","flank","analogue","optimism","sophisticated","comprehend","straightforward","idleness","wasteful","flight","violent","rapture","furious","shabby","satisfaction","fury","rapidity"]
+focusWords: ["fission", "flexible", "prey", "inspiration", "martyr", "neighbouring", "grin", "blush", "attachment", "ripple", "quantitative", "junction", "allied", "mitten", "impose", "utilization", "cubic", "legislation", "historic", "intellect", "ideally", "slang", "ion", "twilight", "prism", "grim", "troublesome", "similarity", "flank", "analogue", "optimism", "sophisticated", "comprehend", "straightforward", "idleness", "wasteful", "flight", "violent", "rapture", "furious", "shabby", "satisfaction", "fury", "rapidity", "aerial", "irrigation"]
 tags: ["科学教育","河流","环境"]
 accent: 74
 sources:

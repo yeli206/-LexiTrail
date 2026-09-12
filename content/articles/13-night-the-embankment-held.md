@@ -6,7 +6,7 @@ summary: "A coastal engineer trusts measurements, local memory, and one uncomfor
 category: "science"
 publishedAt: "2026-08-18"
 reviewedAt: "2026-09-10"
-focusWords: ["mint","hymn","glorify","fore","therein","overseas","ashore","brand","alongside","roam","freight","disastrous","locomotive","dome","cylinder","undertake","vowel","satisfactorily","nucleus","marshal","subscription","prophet","prophecy","prediction","preset","beforehand","foresee","prevention","tulip","intonation","overlap","excuse","torpedo","roundabout","kidnap","guilt","shadowy","avail","ambitious","validity","availability","finite","magnet","advantageous","bead"]
+focusWords: ["mint", "hymn", "glorify", "fore", "therein", "overseas", "ashore", "brand", "alongside", "roam", "freight", "disastrous", "locomotive", "dome", "cylinder", "undertake", "vowel", "satisfactorily", "nucleus", "marshal", "subscription", "prophet", "prophecy", "prediction", "preset", "beforehand", "foresee", "prevention", "tulip", "intonation", "overlap", "excuse", "torpedo", "roundabout", "kidnap", "guilt", "shadowy", "avail", "ambitious", "validity", "availability", "finite", "magnet", "advantageous", "bead", "harbour"]
 tags: ["工程","天气","风险"]
 accent: 216
 sources:

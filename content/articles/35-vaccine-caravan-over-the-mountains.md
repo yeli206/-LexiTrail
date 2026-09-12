@@ -6,7 +6,7 @@ summary: "A medical caravan crosses a high mountain route to vaccinate remote vi
 category: "mind"
 publishedAt: "2026-07-27"
 reviewedAt: "2026-09-10"
-focusWords: ["vault","duke","consolidate","rooster","mercury","convention","implement","combat","impart","workpiece","energize","flavour","dove","vaccinate","tower","elevation","lofty","intervene","lattice","olive","thanksgiving","outline","conception","notion","chill","generalize","mend","impress","by-product","complication","duplicate","complexity","appendix","extra","emerge","obedience","negative","veto","denial","subsidiary","buddhism","dedicate","obedient","pineapple"]
+focusWords: ["check", "clinic", "over", "question", "vault", "duke", "consolidate", "rooster", "mercury", "convention", "implement", "combat", "impart", "workpiece", "energize", "flavour", "dove", "vaccinate", "tower", "elevation", "lofty", "intervene", "lattice", "olive", "thanksgiving", "outline", "conception", "notion", "chill", "generalize", "mend", "impress", "by-product", "complication", "appendix", "extra", "emerge", "obedience", "negative", "veto", "denial", "subsidiary", "buddhism", "dedicate", "obedient", "pineapple"]
 tags: ["公共卫生","山区","信任"]
 accent: 236
 sources:

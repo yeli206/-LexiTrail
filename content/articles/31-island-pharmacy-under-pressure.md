@@ -6,7 +6,7 @@ summary: "A pharmacist and a small island crew race to stop a tuberculosis outbr
 category: "science"
 publishedAt: "2026-07-31"
 reviewedAt: "2026-09-10"
-focusWords: ["metallic","untie","henceforth","tackle","presentation","dissolve","mustard","tuberculosis","incorporate","yeast","abbreviation","thrifty","disillusion","horn","interview","reef","receiver","coke","intercourse","symphony","degradation","soy","parachute","oar","discourse","ginger","inspector","architect","splash","challenge","clip","enterprise","firmness","diminish","resolute","lessen","sturdy","stability","persistence","shrill","persevere","hypothesis","bridge","insistent"]
+focusWords: ["symptom", "untie", "henceforth", "tackle", "dissolve", "mustard", "tuberculosis", "incorporate", "yeast", "abbreviation", "thrifty", "disillusion", "horn", "reef", "receiver", "coke", "intercourse", "symphony", "degradation", "soy", "parachute", "oar", "discourse", "ginger", "inspector", "architect", "splash", "challenge", "clip", "enterprise", "firmness", "diminish", "resolute", "lessen", "sturdy", "steady", "stability", "persistence", "shrill", "persevere", "hypothesis", "insistent", "split", "integrity", "dock", "outbreak"]
 tags: ["公共卫生","海岛","科研"]
 accent: 140
 sources:

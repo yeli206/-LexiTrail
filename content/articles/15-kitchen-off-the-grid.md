@@ -6,7 +6,7 @@ summary: "A neighborhood kitchen tests energy, food, and cooperation when a blac
 category: "science"
 publishedAt: "2026-08-16"
 reviewedAt: "2026-09-10"
-focusWords: ["instrumental","evenly","wardrobe","compatible","stitch","chop","baby","troop","episode","cluster","generalization","burglar","jesus","fort","prescription","postulate","wag","cradle","waver","oxidize","banquet","foster","anode","balcony","scope","cloak","prolong","sharply","pickle","retard","squeeze","dentist","overwhelming","opium","overwhelm","compression","patrol","circulation","cruise","option","cigar","cock","radiant","gorgeous","overhang"]
+focusWords: ["instrumental", "wardrobe", "compatible", "stitch", "chop", "baby", "troop", "episode", "cluster", "generalization", "burglar", "jesus", "fort", "prescription", "postulate", "wag", "cradle", "waver", "oxidize", "banquet", "foster", "anode", "balcony", "scope", "cloak", "prolong", "sharply", "pickle", "retard", "squeeze", "dentist", "overwhelming", "opium", "overwhelm", "compression", "patrol", "circulation", "cruise", "option", "cigar", "cock", "radiant", "gorgeous", "overhang", "crisis", "charcoal", "garlic"]
 tags: ["能源","社区","食物"]
 accent: 246
 sources:

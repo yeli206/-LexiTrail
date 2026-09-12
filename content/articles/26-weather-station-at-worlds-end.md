@@ -6,7 +6,7 @@ summary: "A winter crew in Antarctica must decide whether an impossible rescue m
 category: "science"
 publishedAt: "2026-08-05"
 reviewedAt: "2026-09-10"
-focusWords: ["hostess","overhear","waitress","feminine","blouse","goddess","coward","radiator","strive","mess","distortion","saturn","shorten","milky","peer","wrench","nickel","wring","annually","practicable","capability","basin","incredible","refugee","antarctic","pumpkin","polar","masculine","baron","intent","pasture","sodium","oyster","skyscraper","magician","module","ambiguous","destiny","doom","proposition","bid","decidedly","destine","explicit"]
+focusWords: ["consciousness", "hostess", "overhear", "waitress", "feminine", "blouse", "goddess", "coward", "radiator", "strive", "mess", "distortion", "saturn", "shorten", "milky", "peer", "wrench", "nickel", "wring", "annually", "practicable", "basin", "incredible", "refugee", "antarctic", "pumpkin", "polar", "masculine", "baron", "intent", "pasture", "sodium", "oyster", "skyscraper", "magician", "module", "ambiguous", "destiny", "doom", "proposition", "bid", "decidedly", "destine", "explicit", "heater", "applause"]
 tags: ["南极","气候","救援"]
 accent: 30
 sources:

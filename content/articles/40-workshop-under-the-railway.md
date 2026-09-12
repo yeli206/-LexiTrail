@@ -6,7 +6,7 @@ summary: "A group of mechanics keeps a historic station alive while preparing it
 category: "technology"
 publishedAt: "2026-07-22"
 reviewedAt: "2026-09-10"
-focusWords: ["persist","proceeding","acknowledge","shoulder","dine","length","membership","integrity","kit","commend","muse","meditate","hush","repeal","brood","immerse","lathe","row","supersonic","reign","ultrasonic","nickname","surpass","waggon","frequent","toad","diesel","errand","ascertain","grassy","herb","manipulate","hatch","participate","napkin","reference","parameter","recipe","substance","sermon","absent","awkward","wretched","disagreement"]
+focusWords: ["workshop", "platform", "even", "hide", "drainage", "difficult", "track", "dust", "persist", "proceeding", "acknowledge", "shoulder", "dine", "membership", "commend", "muse", "meditate", "hush", "repeal", "brood", "immerse", "lathe", "supersonic", "reign", "ultrasonic", "nickname", "surpass", "waggon", "frequent", "toad", "diesel", "errand", "ascertain", "grassy", "manipulate", "hatch", "participate", "napkin", "reference", "parameter", "awkward", "wretched", "disagreement", "axle", "measurement", "default"]
 tags: ["铁路","维护","工程"]
 accent: 106
 sources:

@@ -6,7 +6,7 @@ summary: "Follow a single banknote through a week of small choices and it become
 category: "mind"
 publishedAt: "2026-09-06"
 reviewedAt: "2026-09-10"
-focusWords: ["hike","trade","deal","lease","headquarters","profitable","house","domestic","consumer","pilgrim","snail","illiterate","outlaw","dependant","pledge","routine","enlighten","tack","excursion","tutor","rate","pal","seaport","provision","earnings","insulator","coach","toss","missionary","undesirable","unfit","expenditure","span","allowance","budget","mortgage","finance","deposit","discount","valuable"]
+focusWords: ["lease", "headquarters", "noted", "category", "sign", "discount", "budget", "profitable", "house", "domestic", "deposit", "consumer", "pilgrim", "snail", "illiterate", "raise", "outlaw", "dependant", "revenue", "pledge", "enlighten", "tack", "box", "excursion", "particular", "generosity", "construction", "tutor", "stall", "pal", "seaport", "inland", "provision", "earnings", "insulator", "charge", "answer", "toss", "shortage", "mortgage", "missionary", "undesirable", "unfit", "expenditure", "span", "allowance"]
 tags: ["消费", "理财", "生活"]
 accent: 58
 sources:

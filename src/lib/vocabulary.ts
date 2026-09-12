@@ -10,10 +10,11 @@ const entryByAlias = new Map<string, VocabularyEntry>();
 
 for (const entry of vocabulary) {
   entryByLemma.set(entry.lemma.toLowerCase(), entry);
-  entryByAlias.set(entry.lemma.toLowerCase(), entry);
   entryByAlias.set(entry.display.toLowerCase(), entry);
   for (const alias of entry.aliases) {
-    entryByAlias.set(alias.toLowerCase(), entry);
+    const key = alias.toLowerCase();
+    if (key.length < 2 || alias === entry.lemma) continue;
+    entryByAlias.set(key, entry);
   }
 }
 

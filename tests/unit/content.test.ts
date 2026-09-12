@@ -4,14 +4,10 @@ import matter from "gray-matter";
 import { describe, expect, it } from "vitest";
 import vocabularyData from "@/data/vocabulary.json";
 
-const focusSets = JSON.parse(
-  fs.readFileSync(path.join(process.cwd(), "content", "focus-sets.json"), "utf8"),
-) as Record<string, string[]>;
-
 describe("article content", () => {
   const files = fs.readdirSync(path.join(process.cwd(), "content", "articles"));
 
-  it("ships exactly ten articles with valid lengths", () => {
+  it("ships 45 articles with valid lengths", () => {
     expect(files.length).toBeGreaterThanOrEqual(45);
     for (const file of files) {
       const { content } = matter(fs.readFileSync(path.join(process.cwd(), "content", "articles", file), "utf8"));
@@ -28,14 +24,21 @@ describe("article content", () => {
     }
   });
 
-  it("has 35-45 focus words per article", () => {
-    for (const [slug, words] of Object.entries(focusSets)) {
-      expect(words.length, slug).toBeGreaterThanOrEqual(35);
-      expect(words.length, slug).toBeLessThanOrEqual(45);
+  it("assigns 46-47 unique vocabulary words to every article", () => {
+    const assigned = new Set<string>();
+    for (const file of files) {
+      const { data } = matter(fs.readFileSync(path.join(process.cwd(), "content", "articles", file), "utf8"));
+      expect(data.focusWords.length, file).toBeGreaterThanOrEqual(46);
+      expect(data.focusWords.length, file).toBeLessThanOrEqual(47);
+      for (const word of data.focusWords as string[]) {
+        expect(assigned.has(word), `duplicate assignment: ${word}`).toBe(false);
+        assigned.add(word);
+      }
     }
+    expect(assigned.size).toBe(vocabularyData.meta.count);
   });
 
-  it("contains the complete first-batch vocabulary baseline", () => {
+  it("contains the complete balanced vocabulary baseline", () => {
     expect(vocabularyData.meta.count).toBe(2085);
     expect(vocabularyData.entries.every((entry) => entry.translation.length > 0)).toBe(true);
   });

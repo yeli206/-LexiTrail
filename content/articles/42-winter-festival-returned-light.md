@@ -6,7 +6,7 @@ summary: "A mountain town rebuilds its annual festival after a fire and discover
 category: "internet"
 publishedAt: "2026-07-20"
 reviewedAt: "2026-09-10"
-focusWords: ["verge","fireplace","patron","diploma","indispensable","sullen","breakdown","essence","bandage","captive","deviation","arctic","tragic","grief","firework","wrath","woe","vengeance","tyrant","grumble","tyranny","assurance","panther","fuse","leopard","reservation","safeguard","fortress","saturation","mist","chip","siege","baseball","inclusive","scar","embrace","radius","trigger","liner","millionaire","shutter","white","lily","idiot","lining"]
+focusWords: ["deal", "way", "finance", "replace", "reject", "end", "fell", "horizon", "indispensable", "sullen", "breakdown", "essence", "bandage", "captive", "deviation", "arctic", "grief", "firework", "wrath", "woe", "vengeance", "tyrant", "grumble", "tyranny", "assurance", "panther", "fuse", "leopard", "reservation", "safeguard", "fortress", "saturation", "mist", "chip", "siege", "baseball", "scar", "embrace", "radius", "trigger", "liner", "millionaire", "shutter", "lily", "idiot", "lining", "clown"]
 tags: ["节日","灾后重建","传统"]
 accent: 184
 sources:

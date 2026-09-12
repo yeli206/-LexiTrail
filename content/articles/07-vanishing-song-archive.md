@@ -6,7 +6,7 @@ summary: "A community archive shows that preservation is not only about storing 
 category: "internet"
 publishedAt: "2026-09-04"
 reviewedAt: "2026-09-10"
-focusWords: ["manuscript","interpret","glossary","vocabulary","proverb","narration","eloquence","analogy","resemblance","imitation","reproduce","magnify","mystery","quest","antique","amateur","concert","melody","chorus","cartoon","comedy","drama","sculpture","embroidery","abstract","classic","directory","correspondence","craft","custom","primitive","religion","pattern","preservation","probe"]
+focusWords: ["primitive", "margin", "concert", "amateur", "proverb", "quest", "narration", "embroidery", "eloquence", "directory", "religion", "analogy", "resemblance", "ignorance", "hum", "literal", "dismiss", "correspondence", "entry", "probe", "manuscript", "verse", "mystery", "scan", "classic", "abstract", "interpret", "craft", "custom", "antique", "pattern", "imitation", "reproduce", "magnify", "pressure", "sculpture", "simple", "fragile", "follow", "glossary", "vocabulary", "offer", "visit", "announce", "preservation", "chorus"]
 tags: ["文化档案", "手工艺", "社区"]
 accent: 96
 sources:

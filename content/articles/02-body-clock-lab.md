@@ -6,7 +6,7 @@ summary: "A high-altitude field station reveals how light, pressure, and invisib
 category: "science"
 publishedAt: "2026-09-09"
 reviewedAt: "2026-09-10"
-focusWords: ["slumber","awake","alert","consciousness","perception","sensation","psychology","vital","fitness","wholesome","refreshment","symptom","clinic","diagnose","ultraviolet","ambient","velocity","equilibrium","inorganic","neutron","proton","magnetism","ecology","species","mammal","reptile","evaporate","pressure","latitude","horizon","solar","lunar","cosmic","cosmos","geology","geographical","hemisphere","plateau","germ","bacterium"]
+focusWords: ["hike", "ultraviolet", "ambient", "neutron", "proton", "diagnose", "lunar", "cosmic", "cosmos", "velocity", "psychology", "bacterium", "germ", "body", "inorganic", "latitude", "slumber", "wholesome", "fitness", "influence", "evaporate", "subject", "bend", "humidity", "ecology", "vital", "blue", "awake", "equilibrium", "reptile", "interior", "solar", "snack", "extreme", "plateau", "perception", "sensation", "distract", "geology", "geographical", "magnetism", "participant", "incomplete", "mammal", "hemisphere", "refreshment"]
 tags: ["睡眠", "生物钟", "自然"]
 accent: 12
 sources:

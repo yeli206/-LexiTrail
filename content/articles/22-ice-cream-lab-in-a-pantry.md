@@ -6,7 +6,7 @@ summary: "Three friends turn a tiny kitchen experiment into a successful local b
 category: "technology"
 publishedAt: "2026-08-09"
 reviewedAt: "2026-09-10"
-focusWords: ["degrade","embarrass","oblige","contrast","mature","tangle","ice","overload","develop","sweeten","nourishment","thicken","experimentation","jog","establish","baffle","engage","execution","vector","quartz","pantry","whitewash","experimentally","limestone","graphite","handout","unemployment","disgrace","residual","remainder","stiff","excel","producer","productive","hoist","deliberately","kidney","censor","shrine","deliberate","profound","trench","photography","conceive","serpent"]
+focusWords: ["degrade", "embarrass", "oblige", "contrast", "mature", "tangle", "overload", "develop", "sweeten", "nourishment", "thicken", "experimentation", "jog", "establish", "baffle", "engage", "execution", "vector", "quartz", "pantry", "whitewash", "experimentally", "limestone", "graphite", "handout", "unemployment", "disgrace", "residual", "remainder", "stiff", "excel", "productive", "hoist", "kidney", "censor", "shrine", "deliberate", "profound", "trench", "photography", "conceive", "serpent", "sting", "barely", "cable", "herb"]
 tags: ["创业","食品","实验"]
 accent: 334
 sources:

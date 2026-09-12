@@ -6,7 +6,7 @@ summary: "An archive follows a packet of correspondence across borders and disco
 category: "internet"
 publishedAt: "2026-08-17"
 reviewedAt: "2026-09-10"
-focusWords: ["commonsense","conservative","liable","yacht","uranium","tanker","postal","superiority","elbow","cutter","net","head","tug","formulate","sniff","courageous","emigrate","everlasting","periodic","comply","bound","salute","cater","printer","harbour","eternal","cite","ignite","derivation","banker","obscure","inasmuch","cross","refrain","restrain","obligation","formerly","desert","veil","forsake","displace","displacement","garment","colonist","islam"]
+focusWords: ["commonsense", "conservative", "liable", "yacht", "uranium", "tanker", "postal", "superiority", "elbow", "cutter", "net", "tug", "formulate", "sniff", "courageous", "emigrate", "everlasting", "periodic", "comply", "bound", "salute", "cater", "printer", "eternal", "cite", "ignite", "derivation", "banker", "obscure", "inasmuch", "refrain", "restrain", "formerly", "desert", "veil", "forsake", "displace", "displacement", "garment", "colonist", "islam", "catholic", "flee", "complexity", "recipe", "white"]
 tags: ["档案","迁徙","港口"]
 accent: 232
 sources:

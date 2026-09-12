@@ -6,7 +6,7 @@ summary: "Small AI programs are moving from chat windows into daily work. The in
 category: "technology"
 publishedAt: "2026-09-10"
 reviewedAt: "2026-09-10"
-focusWords: ["automate","innovation","program","software","network","input","message","interface","terminal","switch","sensor","client","systematic","calibration","coefficient","sequence","specification","transmission","virtual","regulate","collaborate","electronics","workshop","executive","transition","composition","value","action","overall","qualification","storage","position","theory","operation","detail","mechanism","productivity","prototype","maintenance","reactor"]
+focusWords: ["composition", "value", "executive", "overall", "qualification", "transition", "storage", "position", "specification", "prototype", "transmission", "sequence", "collaborate", "coefficient", "calibration", "cautious", "regulate", "detail", "what", "input", "automate", "virtual", "productivity", "context", "routine", "message", "feel", "support", "reserve", "theory", "rate", "complaint", "terminal", "mechanism", "outcome", "valuable", "client", "summary", "interface", "reactor", "generate", "invoice", "innovation", "systematic", "reverse", "software"]
 tags: ["人工智能", "工作方式", "科技"]
 accent: 3
 sources:
