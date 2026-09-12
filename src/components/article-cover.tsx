@@ -9,6 +9,10 @@ const palettes = [
   ["#777086", "#bdcdc7", "#b0927e"],
 ] as const;
 
+function getCoverVariant(number: number) {
+  return (number - 1) % 8;
+}
+
 export function ArticleCover({
   title,
   seed,
@@ -23,6 +27,7 @@ export function ArticleCover({
   className?: string;
 }) {
   const palette = palettes[seed % palettes.length];
+  const variant = getCoverVariant(number);
   const style = {
     "--cover-a": palette[0],
     "--cover-b": palette[1],
@@ -31,7 +36,7 @@ export function ArticleCover({
   } as CSSProperties;
 
   return (
-    <div className={cn("article-cover", compact && "article-cover--compact", className)} style={style} aria-hidden="true">
+    <div className={cn("article-cover", `article-cover--v${variant + 1}`, compact && "article-cover--compact", className)} style={style} aria-hidden="true">
       <span className="article-cover__shape article-cover__shape--one" />
       <span className="article-cover__shape article-cover__shape--two" />
       <span className="article-cover__shape article-cover__shape--three" />
